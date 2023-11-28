@@ -32,7 +32,7 @@ if you’d like to help with a particular component.
 ## The Story
 
 A long time ago, in college, my friends and I were working on a hobby operating
-system, [XOmB](http://xomb.org). It was... tough. Frankly, while I learned a
+system, [XOmB](https://web.archive.org/web/20170603202750/http://wiki.xomb.org/index.php?title=Main_Page). It was... tough. Frankly, while I learned a
 lot, I was a pretty minor contributor. I got frustrated too easily. One day, I
 found Ruby, and I was pretty much done with low-level programming. I had done
 it most of my life, and I was bored. Bored, and sick of dealing with core
